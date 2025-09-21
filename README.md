@@ -50,18 +50,6 @@
 
 ---
 
-### Connect with me:
-<p align="center">
-  <a href="https://www.youtube.com/@nowblx" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" height="40"/>
-  </a>
-  <a href="https://discord.gg/m47U3JXW" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40" height="40"/>
-  </a>
-</p>
-
----
-
 ### Languages & Tools
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/>
