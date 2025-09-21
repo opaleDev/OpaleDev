@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OpaleDev&show_icons=true&theme=radical&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OpaleDev&theme=Palenight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OpaleDev&theme=Ayu" />
 </p>
 
 <p align="center">
