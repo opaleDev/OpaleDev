@@ -2,12 +2,12 @@
 <h3 align="center">I'm a backend and rontend enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OpaleDev&show_icons=true&theme=radical&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OpaleDev&theme=blue" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OpaleDev&show_icons=true&theme=dark&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OpaleDev&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OpaleDev&layout=compact&theme=radical&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OpaleDev&layout=compact&theme=dark&langs_count=6" />
 </p>
 
 <p align="center">
