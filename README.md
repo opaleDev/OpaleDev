@@ -31,9 +31,8 @@
 ---
 
 ## 🔭 Currently Working On
-- Roblox Revivals: [EPIK17]
+- Roblox Revivals: [EPIK17] ; epik17.xyz
 
-## PHP AND PYTHON 
 
 ## 👯 Collaboration
 - Looking to collaborate on **PHP and python projects**
