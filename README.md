@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm OpaleDev</h1>
-<h3 align="center">I'm a backend and rontend enthusiast 🚀</h3>
+<h3 align="center">I'm a backend and frontend enthusiast 🚀</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OpaleDev&show_icons=true&theme=radical&count_private=true" />
@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OpaleDev&layout=compact&theme=radical&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OpaleDev&layout=compact&theme=radical&langs_count=16" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OpaleDev&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=trapzofficial&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
@@ -19,6 +19,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=OpaleDev" />
   </a>
 </p>
+
 
 ---
 
